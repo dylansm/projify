@@ -1,0 +1,19 @@
+{
+  "name": "projify",
+  "version": "1.0.0",
+  "description": "Create a basic project layout with sensible defaults.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylansm/projify.git"
+  },
+  "author": "Dylan Smith <hello@rh.izo.me> (https://rh.izo.me)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dylansm/projify/issues"
+  },
+  "homepage": "https://github.com/dylansm/projify#readme"
+}
