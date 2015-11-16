@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/dylansm/projify#readme",
   "dependencies": {
-    "prompt": "^0.2.14"
+    "yaml-js": "^0.1.3"
   }
 }
