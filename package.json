@@ -1,6 +1,6 @@
 {
   "name": "projify",
-  "version": "1.0.1",
+  "version": "0.0.1",
   "description": "Create a basic project layout with sensible defaults.",
   "main": "index.js",
   "scripts": {
